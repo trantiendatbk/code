@@ -25,7 +25,7 @@
             "ten":"Hoa Leng",
             "hinh":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSLeE7Xllq2gfZbvZNZfDh25Ty627Ddz1jp7AoBBKybrXfHc11p&usqp=CAU"
           }
-
+        
     ],
     
     "table_tag":[
@@ -41,5 +41,20 @@
             "3",
             "4"
         ]
+    ],
+    
+    "details":[
+        [
+            "id": "id1",
+           "categoryName": "categoryName1",
+            "categoryURL": "categoryURL1",
+            "Image": "Image1",
+            "description": "description1",
+            "sortOrder": "sortOrder1",
+            "courseQuantity": "courseQuantity1",
+            "status": "status1",
+            "parentId": "parentId1",
+        ]
+       
     ]
 }
